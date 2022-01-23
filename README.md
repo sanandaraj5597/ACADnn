@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ACADnn
 Accelerating Conventional Architectures for Deep Neural Networks
 =======
@@ -9,4 +8,3 @@ The workload we used for testing on the gem5 out of order core is the CPP implem
 The config directory has the files which tells the gem5 simulator about how the Out of Order core is connected to the memory system.
 The various files present there has a CPU system which has a O3 model with L2 and without L2 cache. MyO3CPU is an extended version of 
 the in-built CPU OoO model to add some extensions we wanted.
->>>>>>> master
